@@ -1,0 +1,12 @@
+---
+#info: Install a generic CinaC workstation system
+- include_role: name=servermonkey.ww
+  vars:
+    task: setup_workstation
+
+- name: Cinac packages
+  package:
+    name:
+      - cinac
+      - servermonkeys-devtools
+      - servermonkeys-templates
