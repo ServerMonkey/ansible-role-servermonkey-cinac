@@ -7,7 +7,6 @@
   loop_control:
     loop_var: loop_setup_cinac
   loop:
-    - autorun_set-resolution
     - cfg_firewall-ping-enable
     - cfg_no-motd
     - do_remove-sshkeys
