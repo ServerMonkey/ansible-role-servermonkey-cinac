@@ -8,6 +8,7 @@
     loop_var: loop_setup_cinac
   loop:
     - cfg_firewall-ping-enable
+    - cfg_theme-windows
     - cfg_no-motd
     - do_remove-sshkeys
     - do_cleanup-apt

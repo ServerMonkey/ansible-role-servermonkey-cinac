@@ -1,1 +1,1 @@
-Depends: ansible-coll-servermonkey-ww, ansible-role-servermonkey-ww, ansible-role-servermonkey-ww-logger, ansible-role-servermonkey-sh, ansible-role-servermonkey-fastpkg
+Depends: ansible-coll-servermonkey-ww, ansible-role-servermonkey-ww, ansible-role-servermonkey-ww-logger, ansible-role-servermonkey-sh, ansible-role-servermonkey-fastpkg, ansible-role-servermonkey-winrun
