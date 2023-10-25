@@ -10,3 +10,6 @@
       - cinac
       - servermonkeys-devtools
       - servermonkeys-templates
+      - ansible-role-servermonkey-cinac
+      - isoremixer
+      - cinac2deb

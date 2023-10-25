@@ -9,7 +9,7 @@
   loop:
     - cfg_firewall-ping-enable
     - cfg_theme-windows
-    - cfg_no-motd
+    - cfg_motd
     - do_remove-sshkeys
     - do_cleanup-apt
     - do_cleanup-system
